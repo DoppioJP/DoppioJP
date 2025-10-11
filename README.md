@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Intentionally switching my workflow to use Omarchy. It rings me joy and peace. I smile each time I can fix or adjust something there. Having an opportunity to try it on older Apple laptops feels like a new hobby.
+- 🔭 Intentionally switching my workflow to use Omarchy. It brings me joy and peace. I smile each time I can fix or adjust something there. Having an opportunity to try it on older Apple laptops feels like a new hobby.
 - ⚡  I was previously working on [Omakub4all](https://github.com/DoppioJP/omakub4all/tree/macos?tab=readme-ov-file#omakub-for-all), so the aesthetically pleasing and functional [Omakub](https://omakub.org) can be used also on macOS and on Linux on ARM
 - 🌱 I’m currently learning how to utilise a variety of AI tools
 - 📫 How to reach me: [Twitter](https://x.com/DoppioJP)
